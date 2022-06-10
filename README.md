@@ -7,14 +7,16 @@
 
 ### Pitter Mendes Lacerda (pitmen)👋
 
-📖 Bacharel em Ciência da Computação pela [Universidade São Judas Tadeu](https://www.usjt.br/).
+👨‍🎓 Bacharel em Ciência da Computação pela [Universidade São Judas Tadeu](https://www.usjt.br/).
 
-🖥️ Profissional com ampla experiência em testes de software funcionais manuais e automatizados atuando como analista de teste em grandes projetos. 
+🧑‍💻 Profissional com ampla experiência em testes de software funcionais manuais e automatizados atuando como analista de teste em grandes projetos. 
 Experiência em treinamento de usuários, planejamento e estratégia em projetos de teste, especificação de requisitos, modelagem de casos de testes e relatórios de bugs. 
 
 📚 Conhecimentos em banco de dados SQLServer e MySQL. 
 
 📚 Conhecimento em programação Java, Ruby, C# e Java Script. 
+
+Atualmente trabalho na [NTTData](https://www.nttdata.com/global/en/) como Engenheiro de QA especialista.
 
 Ferramentas:
 

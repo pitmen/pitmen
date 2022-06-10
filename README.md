@@ -5,18 +5,37 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pitmen&label=Profile%20views&color=0e75b6&style=flat" alt="pitmen" /> </p>
 
 
-### Pitter Mendes Lacerda 👋
+### Pitter Mendes Lacerda (pitmen)👋
 
-Tenho 33 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Atuando na área de QA há quase 2 anos no segmento de Live Streaming.
+📖 Bacharel em Ciência da Computação pela [Universidade São Judas Tadeu](https://www.usjt.br/).
 
-📖 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
+🖥️ Profissional com ampla experiência em testes de software funcionais manuais e automatizados atuando como analista de teste em grandes projetos. 
+Experiência em treinamento de usuários, planejamento e estratégia em projetos de teste, especificação de requisitos, modelagem de casos de testes e relatórios de bugs. 
+📚 Conhecimentos em banco de dados SQLServer e MySQL. 
+📚 Conhecimento em programação Java, Ruby, C# e Java Script. 
 
-📘 Atualmente concluindo o curso de Testes de Software na [Mentorama](https://mentorama.com.br).
+Ferramentas:
 
-📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e testes de API com Rest Assured.
-
-🎮 Já me aventurei como streamer na twitch e já tentei jogar profissionalmente CSGO.
-
+ • Ferramentas:
+ • Selenium IDE e Selenium WebDriver;
+ • Cucumber;
+ • Testlink;
+ • Mantis;
+ • Capybara/SitePrism;
+ • Protractor ;
+ • Jasmine;
+ • Postman;
+ • GitHub e GitLab;
+ • Cypress;
+ • Confluence;
+ • JIRA;
+ • Jenkins e Circle CI;
+ • Silk Test;
+ • Stryke mutator;
+ • dotNet;
+ • Appium;
+ 
+ 
 ******
 
 ### 🖥️ Tecnologias e Ferramentas:

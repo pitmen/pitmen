@@ -4,8 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pitmen&label=Profile%20views&color=0e75b6&style=flat" alt="pitmen" /> </p>
 
+<h1 align = "center"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, meu nome é Pitter Mendes Lacerda</h1>
 
-### Pitter Mendes Lacerda (pitmen)👋
+### Pitter Mendes Lacerda (pitmen)
 
 👨‍🎓 Bacharel em Ciência da Computação pela [Universidade São Judas Tadeu](https://www.usjt.br/).
 
@@ -50,13 +51,14 @@ Experiência em treinamento de usuários, planejamento e estratégia em projetos
 </p>
 
 
-📫 Você pode falar comigo pelo Linkedin ou pelo Instagram*-.
+💬 Você pode falar comigo pelo Outlook, Linkedin ou Instagram 🤩
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pitter-mendes-lacerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitter-mendes-lacerda" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pitter_mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pitter_mendes" height="30" width="40" /></a>
+ <a href="pitter-puk@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/22378340/173155426-1be7cba2-fa57-4112-bef1-3d1a3c2073a5.svg" alt="pitter-puk@hotmail.com" height="30" width="40" /></a>
 </p>
 
 ******

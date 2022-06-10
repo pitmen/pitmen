@@ -17,29 +17,6 @@ Experiência em treinamento de usuários, planejamento e estratégia em projetos
 📚 Conhecimento em programação Java, Ruby, C# e Java Script. 
 
 🧑💻🚀 Atualmente trabalho na [NTTData](https://www.nttdata.com/global/en/) como Engenheiro de QA especialista.
-
-
-
- 
-
- 
-
- 
- 
-
- 
- • GitLab;
- 
- • Confluence;
- 
- • JIRA;
- 
- • Jenkins e Circle CI;
- 
- • Silk Test;
- 
- • Stryke mutator;
- 
  
 ******
 
@@ -55,49 +32,25 @@ Experiência em treinamento de usuários, planejamento e estratégia em projetos
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
  <a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a> <a href="http://appium.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/ac43961d1157f973c54f210cf5e0c9c45e3d3f10/projects/appium/appium-logo-stacked-grayscale.svg" alt="appium" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
- <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
+ <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173146361-7535e110-8f57-43a7-910e-8de4150152fa.svg" alt="dotnet" width="40" height="40"/> </a>
+ <a href="https://www.protractortest.org/#/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173146366-75261bcc-a606-45c1-8827-e5f5034d59e8.svg" alt="protractor" width="40" height="40"/> </a>
  
- <a href="https://www.protractortest.org/#/" target="_blank" rel="noreferrer"> <img src="" alt="protractor" width="40" height="40"/> </a>
- 
- <a href="https://testlink.org/" target="_blank" rel="noreferrer"> <img src="" alt="testlinkt" width="40" height="40"/> </a>
- 
- <a href="https://www.mantisbt.org/" target="_blank" rel="noreferrer"> <img src="" alt="mantis" width="40" height="40"/> </a>
- 
- <a href="https://github.com/teamcapybara/capybara" target="_blank" rel="noreferrer"> <img src="" alt="capybara" width="40" height="40"/> </a>
- 
- <a href="https://www.rubydoc.info/gems/site_prism/SitePrism/Page" target="_blank" rel="noreferrer"> <img src="" alt="sitePrism" width="40" height="40"/> </a>
- 
+ <a href="https://testlink.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173146369-3f8afb1e-1a09-404c-8b06-2ff76e3b1221.png" alt="testlinkt" width="40" height="40"/> </a>
+ <a href="https://www.mantisbt.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173146364-6a73eb37-e3e3-4d2d-8f74-8da9e5d86024.jpg" alt="mantis" width="40" height="40"/> </a>
+ <a href="https://github.com/teamcapybara/capybara" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173149902-3c3132a7-bb60-4eee-865c-f899fb8cf1c2.jpg" alt="capybara" width="40" height="40"/> </a>
  <a href="https://www.ruby-lang.org/pt/documentation/" target="_blank" rel="noreferrer"> <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="ruby" width="40" height="40"/> </a>
- 
- <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://jasmine.github.io/images/jasmine-white-horizontal.svg" alt="jasmine" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
- 
+ <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173148065-ccc72bcc-a3ee-4d7e-9cf0-ee9f5c138e5b.svg" alt="jasmine" width="40" height="40"/> </a>
+ <a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png?width=64" alt="gitlab" width="40" height="40"/> </a>
+ <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173148068-9ec3dcec-b130-4d93-9403-8f26a8513d71.svg" alt="jenkins" width="40" height="40"/> </a>
+ <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173146356-ff1c884d-86d7-47cf-b51a-00b3ca1ef315.svg" alt="circleCi" width="40" height="40"/> </a>
+ <a href="https://stryker-mutator.io/" target="_blank" rel="noreferrer"> <img src="https://stryker-mutator.io/images/stryker.svg" alt="strykerMutator" width="40" height="40"/> </a>
+ <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173148060-3f7953ff-baff-4616-b8c9-29f554bd3b80.svg" alt="jira" width="40" height="40"/> </a>
+ <a href="https://www.atlassian.com/br/software/confluence" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173148063-da9ddbe8-a383-4d6a-90a3-aa5ca3dc08b2.svg" alt="confluence" width="40" height="40"/> </a>
+ <a href="https://www.microfocus.com/pt-br/products/silk-test/overview" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22378340/173146368-fbfab707-cf40-44c3-b513-922fb3932d36.png" alt="silkTest" width="40" height="40"/> </a>
 </p>
 
 
-📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios ;)
+📫 Você pode falar comigo pelo Linkedin ou pelo Instagram*-.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -109,7 +62,7 @@ Experiência em treinamento de usuários, planejamento e estratégia em projetos
 ******
 
 <div align="center">
-  <a href="https://github.com/mrk-qa">
+  <a href="https://github.com/pitmen">
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pitmen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pitmen&layout=compact&langs_count=8&theme=algolia"/>
 </div>

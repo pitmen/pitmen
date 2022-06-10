@@ -1,4 +1,4 @@
-<img align="right" width="200px" style="margin-top:-20px" src="">
+<img align="right" width="200px" style="margin-top:-20px" src="![imagem-topo-gitHub](https://user-images.githubusercontent.com/22378340/173125478-e6206125-8037-40fb-a85b-12819d1c2b0a.jpeg)">
 <h1>  @Quality Assurance </h1>
 <h1>  Hello World!! 🌎 </h1>
 
@@ -16,7 +16,7 @@ Experiência em treinamento de usuários, planejamento e estratégia em projetos
 
 📚 Conhecimento em programação Java, Ruby, C# e Java Script. 
 
-Atualmente trabalho na [NTTData](https://www.nttdata.com/global/en/) como Engenheiro de QA especialista.
+🧑💻🚀 Atualmente trabalho na [NTTData](https://www.nttdata.com/global/en/) como Engenheiro de QA especialista.
 
 Ferramentas:
 
@@ -61,7 +61,7 @@ Ferramentas:
 
 ### 🚀💻 Tecnologias e Ferramentas:
 
-<img width="200px" align="right" src="">
+<img width="200px" align="right" src="![imagem-central-gitHub](https://user-images.githubusercontent.com/22378340/173125481-162d529e-f0a7-46ac-a562-21be2ca077aa.jpeg)">
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a> <a href="http://appium.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/ac43961d1157f973c54f210cf5e0c9c45e3d3f10/projects/appium/appium-logo-stacked-grayscale.svg" alt="appium" width="40" height="40"/> </a> <a href="https://robotframework.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg" alt="robot-framework" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 

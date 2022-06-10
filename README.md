@@ -1,5 +1,5 @@
 <img align="right" width="200px" style="margin-top:-20px" src="">
-<h1>  @Test </h1>
+<h1>  @Quality Assurance </h1>
 <h1>  Hello World!! 🌎 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pitmen&label=Profile%20views&color=0e75b6&style=flat" alt="pitmen" /> </p>
@@ -11,34 +11,53 @@
 
 🖥️ Profissional com ampla experiência em testes de software funcionais manuais e automatizados atuando como analista de teste em grandes projetos. 
 Experiência em treinamento de usuários, planejamento e estratégia em projetos de teste, especificação de requisitos, modelagem de casos de testes e relatórios de bugs. 
+
 📚 Conhecimentos em banco de dados SQLServer e MySQL. 
+
 📚 Conhecimento em programação Java, Ruby, C# e Java Script. 
 
 Ferramentas:
 
  • Ferramentas:
+ 
  • Selenium IDE e Selenium WebDriver;
+ 
  • Cucumber;
+ 
  • Testlink;
+ 
  • Mantis;
+ 
  • Capybara/SitePrism;
+ 
  • Protractor ;
+ 
  • Jasmine;
+ 
  • Postman;
+ 
  • GitHub e GitLab;
+ 
  • Cypress;
+ 
  • Confluence;
+ 
  • JIRA;
+ 
  • Jenkins e Circle CI;
+ 
  • Silk Test;
+ 
  • Stryke mutator;
+ 
  • dotNet;
+ 
  • Appium;
  
  
 ******
 
-### 🖥️ Tecnologias e Ferramentas:
+### 🚀💻 Tecnologias e Ferramentas:
 
 <img width="200px" align="right" src="">
 

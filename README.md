@@ -54,9 +54,9 @@ Experiência em treinamento de usuários, planejamento e estratégia em projetos
 💬 Você pode falar comigo pelo Outlook, Linkedin ou Instagram 🤩
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href=mailto:pitter-puk@hotmail.com?subject"Contato direcionado através do github" target="blank"><img align="center" src="https://user-images.githubusercontent.com/22378340/173155426-1be7cba2-fa57-4112-bef1-3d1a3c2073a5.svg" alt="pitter-puk@hotmail.com" height="30" width="40" /></a>
+<a href="mailto:pitter-puk@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/22378340/173155426-1be7cba2-fa57-4112-bef1-3d1a3c2073a5.svg" alt="pitter-puk@hotmail.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pitter-mendes-lacerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitter-mendes-lacerda" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pitter_mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pitter_mendes" height="30" width="40" /></a>
 </p>
